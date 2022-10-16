@@ -1,4 +1,4 @@
-### Hi there 👋
+### 一緒に勉強しましょう！ 👋
 
 <!--
 **Titan-no6/Titan-no6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
